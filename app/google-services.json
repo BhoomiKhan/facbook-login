@@ -1,0 +1,117 @@
+{
+  "project_info": {
+    "project_number": "565781593631",
+    "firebase_url": "https://authentication-b171f.firebaseio.com",
+    "project_id": "authentication-b171f",
+    "storage_bucket": "authentication-b171f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565781593631:android:613f4e94f0bc2cb8",
+        "android_client_info": {
+          "package_name": "com.pawras.authentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "565781593631-5f888l1f497ku6qu8vo0kd8lsb28u0c2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD16xDeTEaVE8zoCjh-WjVKyLU7_q2vNs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565781593631:android:017722bd4f83e1b6",
+        "android_client_info": {
+          "package_name": "com.pawras.auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "565781593631-5f888l1f497ku6qu8vo0kd8lsb28u0c2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD16xDeTEaVE8zoCjh-WjVKyLU7_q2vNs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565781593631:android:34bddffdaf1172e5",
+        "android_client_info": {
+          "package_name": "com.pawras.facebooklogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "565781593631-5bheclfvsmjia9stllgl5eicj47fps9o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pawras.facebooklogin",
+            "certificate_hash": "6e082492e21a48a3cf07b1c2e74041645d588237"
+          }
+        },
+        {
+          "client_id": "565781593631-5f888l1f497ku6qu8vo0kd8lsb28u0c2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD16xDeTEaVE8zoCjh-WjVKyLU7_q2vNs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "565781593631-5f888l1f497ku6qu8vo0kd8lsb28u0c2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
